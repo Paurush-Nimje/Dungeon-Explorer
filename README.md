@@ -52,12 +52,6 @@ Rotate the mechanism in the correct order to solve the puzzle and open the corre
 
 Interpret the clues, navigate to a specific location on the map, and unlock the final door.
 
-
-
-![Map Exploration Puzzle](Screenshots/puzzle-4.png)
-
-
-
 ## Key Features
 
 
