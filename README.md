@@ -108,7 +108,7 @@ Interpret the clues, navigate to a specific location on the map, and unlock the 
 
 
 
-\*\*Completed\*\*
+**Completed**
 
 
 
@@ -116,5 +116,5 @@ Interpret the clues, navigate to a specific location on the map, and unlock the 
 
 
 
-Paurush Nimje
+**Paurush Nimje**
 
