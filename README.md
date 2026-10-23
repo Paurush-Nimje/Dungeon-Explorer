@@ -1,8 +1,8 @@
-\# DungeonStd
+# DungeonStd
 
 
 
-\## About the Game
+## About the Game
 
 
 
@@ -14,11 +14,11 @@ The game features four distinct puzzles, each introducing a different challenge 
 
 
 
-\## Gameplay Screenshots
+## Gameplay Screenshots
 
 
 
-\### Puzzle 1: Numpad Code Puzzle
+### Puzzle 1: Numpad Code Puzzle
 
 Analyze clues and enter the correct numerical code using an interactive numpad to unlock the corresponding door.
 
@@ -28,7 +28,7 @@ Analyze clues and enter the correct numerical code using an interactive numpad t
 
 
 
-\### Puzzle 2: Button Sequence Puzzle
+### Puzzle 2: Button Sequence Puzzle
 
 Determine the correct sequence from the available clues and press the buttons in the required order to unlock the door.
 
@@ -38,7 +38,7 @@ Determine the correct sequence from the available clues and press the buttons in
 
 
 
-\### Puzzle 3: Mechanical Rotation Puzzle
+### Puzzle 3: Mechanical Rotation Puzzle
 
 Rotate the mechanism in the correct order to solve the puzzle and open the corresponding door.
 
@@ -48,7 +48,7 @@ Rotate the mechanism in the correct order to solve the puzzle and open the corre
 
 
 
-\### Puzzle 4: Map Exploration Puzzle
+### Puzzle 4: Map Exploration Puzzle
 
 Interpret the clues, navigate to a specific location on the map, and unlock the final door.
 
@@ -58,7 +58,7 @@ Interpret the clues, navigate to a specific location on the map, and unlock the 
 
 
 
-\## Key Features
+## Key Features
 
 
 
@@ -78,7 +78,7 @@ Interpret the clues, navigate to a specific location on the map, and unlock the 
 
 
 
-\## Built With
+## Built With
 
 
 
@@ -90,7 +90,7 @@ Interpret the clues, navigate to a specific location on the map, and unlock the 
 
 
 
-\## How to Play
+## How to Play
 
 
 
@@ -104,7 +104,7 @@ Interpret the clues, navigate to a specific location on the map, and unlock the 
 
 
 
-\## Project Status
+## Project Status
 
 
 
@@ -112,7 +112,7 @@ Interpret the clues, navigate to a specific location on the map, and unlock the 
 
 
 
-\## Author
+## Author
 
 
 
