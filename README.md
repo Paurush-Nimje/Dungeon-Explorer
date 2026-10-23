@@ -24,7 +24,7 @@ Analyze clues and enter the correct numerical code using an interactive numpad t
 
 
 
-!\[Numpad Puzzle](Screenshots/puzzle-1.png)
+![Numpad Puzzle](Screenshots/puzzle-1.png)
 
 
 
@@ -34,7 +34,7 @@ Determine the correct sequence from the available clues and press the buttons in
 
 
 
-!\[Button Sequence Puzzle](Screenshots/puzzle-2.png)
+![Button Sequence Puzzle](Screenshots/puzzle-2.png)
 
 
 
@@ -44,7 +44,7 @@ Rotate the mechanism in the correct order to solve the puzzle and open the corre
 
 
 
-!\[Mechanical Rotation Puzzle](Screenshots/puzzle-3.png)
+![Mechanical Rotation Puzzle](Screenshots/puzzle-3.png)
 
 
 
@@ -54,7 +54,7 @@ Interpret the clues, navigate to a specific location on the map, and unlock the 
 
 
 
-!\[Map Exploration Puzzle](Screenshots/puzzle-4.png)
+![Map Exploration Puzzle](Screenshots/puzzle-4.png)
 
 
 
